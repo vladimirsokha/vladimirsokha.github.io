@@ -99,6 +99,15 @@ html {
     box-shadow: 0px 4px 39px 10px rgba(0, 0, 0, 0.25);
 }
 
+span{
+    color: #CEB5DF;
+    position: absolute;
+    font-size: 90pt;
+    filter: blur(8px);
+    margin-left: -170px;
+    margin-top: -70px;
+  }
+
 div.scroller {
     background-color: #CEB5DF;
     
